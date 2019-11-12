@@ -1,0 +1,16 @@
+{
+  "name": "gridbiz",
+  "version": "1.0.0",
+  "description": "responsive grid css layout",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoleste/gridbiz.git",
+  "author": "Gustavo Leste <gustavoleste@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
